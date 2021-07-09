@@ -1,4 +1,4 @@
-# glassomorphism
+# glassmorphism in flutter
 
 Check the detailed explanation of the post here - 
 <li><a href=https://www.instagram.com/p/CRGxygpjpK9/?utm_source=ig_web_copy_link"> Sign In Page with Glassmorphism  </li>
