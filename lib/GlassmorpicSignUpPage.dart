@@ -183,7 +183,7 @@ class _GlassMorphismState extends State<GlassMorphism> {
         padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
         width: size.width * 0.9,
         decoration: BoxDecoration(
-          color: Colors.black.withOpacity(0.4),
+          color: Colors.black.withOpacity(0.5),
           borderRadius: BorderRadius.circular(29),
           
         ),
@@ -209,7 +209,7 @@ class PasswordFieldContainer extends StatelessWidget {
       padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
       width: size.width * 0.9,
       decoration: BoxDecoration(
-        color: Colors.black.withOpacity(0.4),
+        color: Colors.black.withOpacity(0.5),
         borderRadius: BorderRadius.circular(29),
       ),
       child: child,
