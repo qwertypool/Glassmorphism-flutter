@@ -8,7 +8,7 @@ Check the detailed explanation of the post here -
 
 <h3 align="center" style="color:green" >1. Welcome Page</h3>
  <p align="center">
-<img src="https://user-images.githubusercontent.com/36128196/125093996-86024280-e0f0-11eb-9579-dbfa1e2358c2.png" width="390", height = "750"></img>
+<img src="https://user-images.githubusercontent.com/36128196/125093996-86024280-e0f0-11eb-9579-dbfa1e2358c2.png" width="380", height = "750"></img>
 </p>
 
 ***
